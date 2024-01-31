@@ -127,45 +127,45 @@ code {
     text-decoration: none;
 }
 
-/*Libre Franklin Typography*/
-.franklin {
+/*Philosopher Typography*/
+.philosopher {
     font-family: "Libre Franklin", sans-serif;
     font-size: 16px;
     font-weight: 400;
 }
 
-.franklin h1 {
+.philosopher h1 {
     font-family: "Libre Franklin", serif;
     font-size: 4.209em;
     font-weight: 300;
 }
 
-.franklin h2 {
+.philosopher h2 {
     font-family: "Libre Franklin", serif;
     font-size: 3.157em;
     font-weight: 325;
 }
 
-.franklin h3 {
+.philosopher h3 {
     font-family: "Libre Franklin", serif;
     font-size: 2.369em;
     font-weight: 625;
 }
 
-.franklin h4 {
+.philosopher h4 {
     font-family: "Libre Franklin", serif;
     font-size: 1.777em;
     font-weight: 700;
     font-style: italic;
 }
 
-.franklin em {
+.philosopher em {
     font-size: 1em;
     font-weight: 725;
     font-style: normal;
 }
 
-.franklin a {
+.philosopher a {
     font-family: "Libre Franklin", serif;
     font-size: 1em;
     font-weight: 550;
@@ -175,11 +175,11 @@ code {
     text-decoration-color: #3461fd;
 }
 
-.franklin a:hover {
+.philosopher a:hover {
     text-decoration-style: wavy;
 }
 
-.franklin .hover {
+.philosopher .hover {
     font-family: "Libre Franklin", serif;
     font-weight: 550;
     color: #3461fd;
@@ -189,52 +189,52 @@ code {
     text-decoration-style: wavy;
 }
 
-/*Spicy Rice Typography*/
-.rice {
+/*Amatic SC Typography*/
+.amaticsc {
     font-family: 'Spicy Rice', sans-serif;
     font-size: 16px;
     font-weight: 400;
 }
 
-.rice h1 {
+.amaticsc h1 {
     font-family: 'Spicy Rice', sans-serif;
     font-size: 3.052em;
 }
 
-.rice h2 {
+.amaticsc h2 {
     font-family: 'Spicy Rice', sans-serif;
     font-size: 2.441em;
 }
 
-.rice h3 {
+.amaticsc h3 {
     font-family: 'Spicy Rice', sans-serif;
     font-size: 1.953em;
 }
 
-.rice h4 {
+.amaticsc h4 {
     font-family: 'Spicy Rice', sans-serif;
     font-size: 1.563em;
     text-transform: uppercase;
     font-style: italic;
 }
 
-.rice em {
+.amaticsc em {
     font-weight: 600;
     font-style: normal;
 }
 
-.rice a {
+.amaticsc a {
     color: #3461fd;
     text-decoration: underline;
 }
 
-.rice a:hover {
+.amaticsc a:hover {
     text-decoration: none;
     color: #fff;
     background-color: #3461fd;
 }
 
-.rice .hover {
+.amaticsc .hover {
     text-decoration-style: none;
     color: #fff;
     background-color: #3461fd;
