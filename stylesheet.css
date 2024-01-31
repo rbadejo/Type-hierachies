@@ -76,7 +76,7 @@ code {
 
 /*Black Ops One Typography*/
 .blackopsone {
-    font-family: 'Black Ops One', serif;;
+    font-family: 'Black Ops One', serif;
     font-size: 17px;
     font-weight: 400;
 }
@@ -135,33 +135,39 @@ code {
 }
 
 .philosopher h1 {
+    font-family: "Philosopher", sans-serif;
     font-size: 4.209em;
     font-weight: 300;
 }
 
 .philosopher h2 {
+    font-family: "Philosopher", sans-serif;
     font-size: 3.157em;
     font-weight: 325;
 }
 
 .philosopher h3 {
+    font-family: "Philosopher", sans-serif;
     font-size: 2.369em;
     font-weight: 625;
 }
 
 .philosopher h4 {
+    font-family: "Philosopher", sans-serif;
     font-size: 1.777em;
     font-weight: 700;
     font-style: italic;
 }
 
 .philosopher em {
+    font-family: "Philosopher", sans-serif;
     font-size: 1em;
     font-weight: 725;
     font-style: normal;
 }
 
 .philosopher a {
+    font-family: "Philosopher", sans-serif;
     font-size: 1em;
     font-weight: 550;
     color: #3461fd;
@@ -175,6 +181,7 @@ code {
 }
 
 .philosopher .hover {
+    font-family: "Philosopher", sans-serif;
     font-weight: 550;
     color: #3461fd;
     text-decoration: underline;
@@ -191,32 +198,35 @@ code {
 }
 
 .amaticsc h1 {
+    font-family: 'Amatic SC', sans-serif;
     font-size: 3.052em;
 }
 
 .amaticsc h2 {
-    
+    font-family: 'Amatic SC', sans-serif;
     font-size: 2.441em;
 }
 
 .amaticsc h3 {
-    
+    font-family: 'Amatic SC', sans-serif;
     font-size: 1.953em;
 }
 
 .amaticsc h4 {
-    
+    font-family: 'Amatic SC', sans-serif;
     font-size: 1.563em;
     text-transform: uppercase;
     font-style: italic;
 }
 
 .amaticsc em {
+    font-family: 'Amatic SC', sans-serif;
     font-weight: 600;
     font-style: normal;
 }
 
 .amaticsc a {
+    font-family: 'Amatic SC', sans-serif;
     color: #3461fd;
     text-decoration: underline;
 }
@@ -228,6 +238,7 @@ code {
 }
 
 .amaticsc .hover {
+    font-family: 'Amatic SC', sans-serif;
     text-decoration-style: none;
     color: #fff;
     background-color: #3461fd;
