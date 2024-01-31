@@ -129,31 +129,27 @@ code {
 
 /*Philosopher Typography*/
 .philosopher {
-    font-family: "Libre Franklin", sans-serif;
+    font-family: "Philosopher", sans-serif;
     font-size: 16px;
     font-weight: 400;
 }
 
 .philosopher h1 {
-    font-family: "Libre Franklin", serif;
     font-size: 4.209em;
     font-weight: 300;
 }
 
 .philosopher h2 {
-    font-family: "Libre Franklin", serif;
     font-size: 3.157em;
     font-weight: 325;
 }
 
 .philosopher h3 {
-    font-family: "Libre Franklin", serif;
     font-size: 2.369em;
     font-weight: 625;
 }
 
 .philosopher h4 {
-    font-family: "Libre Franklin", serif;
     font-size: 1.777em;
     font-weight: 700;
     font-style: italic;
@@ -166,7 +162,6 @@ code {
 }
 
 .philosopher a {
-    font-family: "Libre Franklin", serif;
     font-size: 1em;
     font-weight: 550;
     color: #3461fd;
@@ -180,7 +175,6 @@ code {
 }
 
 .philosopher .hover {
-    font-family: "Libre Franklin", serif;
     font-weight: 550;
     color: #3461fd;
     text-decoration: underline;
@@ -191,28 +185,27 @@ code {
 
 /*Amatic SC Typography*/
 .amaticsc {
-    font-family: 'Spicy Rice', sans-serif;
+    font-family: 'Amatic SC', sans-serif;
     font-size: 16px;
     font-weight: 400;
 }
 
 .amaticsc h1 {
-    font-family: 'Spicy Rice', sans-serif;
     font-size: 3.052em;
 }
 
 .amaticsc h2 {
-    font-family: 'Spicy Rice', sans-serif;
+    
     font-size: 2.441em;
 }
 
 .amaticsc h3 {
-    font-family: 'Spicy Rice', sans-serif;
+    
     font-size: 1.953em;
 }
 
 .amaticsc h4 {
-    font-family: 'Spicy Rice', sans-serif;
+    
     font-size: 1.563em;
     text-transform: uppercase;
     font-style: italic;
